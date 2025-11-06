@@ -21,4 +21,7 @@ I am a passionate IT student at Xavier Ateneo College, driven by a curiosity for
 - 🌟 Completed Git & GitHub Setup 2024
 - 🔭 I’m currently working on my final API project.
 
+## Fun Fact
+- I Like Swimming!
+
 Thanks For Stopping By!
